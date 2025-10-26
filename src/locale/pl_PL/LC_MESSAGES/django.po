@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-22 18:15+0000\n"
-"PO-Revision-Date: 2025-10-22 18:18\n"
+"PO-Revision-Date: 2025-10-26 00:37\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -136,11 +136,11 @@ msgstr "tagi"
 
 #: documents/models.py:123
 msgid "Cannot set itself as parent."
-msgstr ""
+msgstr "Nie można ustawić siebie jako nadrzędnego."
 
 #: documents/models.py:125
 msgid "Cannot set parent to a descendant."
-msgstr ""
+msgstr "Nie można ustawić nadrzędnego jako potomnego."
 
 #: documents/models.py:142 documents/models.py:190
 msgid "document type"
@@ -156,11 +156,11 @@ msgstr "ścieżka"
 
 #: documents/models.py:152 documents/models.py:179
 msgid "storage path"
-msgstr "ścieżka zapisu"
+msgstr "Ścieżka zapisu"
 
 #: documents/models.py:153
 msgid "storage paths"
-msgstr "ścieżki zapisu"
+msgstr "Ścieżki zapisu"
 
 #: documents/models.py:160
 msgid "Unencrypted"
@@ -204,7 +204,7 @@ msgstr "Suma kontrolna zarchiwizowanego dokumentu."
 
 #: documents/models.py:229
 msgid "page count"
-msgstr "liczba stron"
+msgstr "Liczba stron"
 
 #: documents/models.py:236
 msgid "The number of pages of the document."
@@ -245,7 +245,7 @@ msgstr "Aktualna nazwa pliku archiwum w pamięci"
 
 #: documents/models.py:289
 msgid "original filename"
-msgstr "oryginalna nazwa pliku"
+msgstr "Oryginalna nazwa pliku"
 
 #: documents/models.py:295
 msgid "The original name of the file when it was uploaded"
@@ -758,7 +758,7 @@ msgstr "Lista"
 
 #: documents/models.py:795
 msgid "Long Text"
-msgstr ""
+msgstr "Pełny tekst"
 
 #: documents/models.py:807
 msgid "data type"
@@ -858,11 +858,11 @@ msgstr "posiada wskazane tag(i)"
 
 #: documents/models.py:1072
 msgid "has all of these tag(s)"
-msgstr ""
+msgstr "Zawiera wszystkie podane tagi"
 
 #: documents/models.py:1079
 msgid "does not have these tag(s)"
-msgstr ""
+msgstr "Nie zawiera żadnego z podanych tagów"
 
 #: documents/models.py:1087
 msgid "has this document type"
@@ -870,7 +870,7 @@ msgstr "posiada wskazany typ dokumentu"
 
 #: documents/models.py:1094
 msgid "does not have these document type(s)"
-msgstr ""
+msgstr "Nie posiada typów dokumentów"
 
 #: documents/models.py:1102
 msgid "has this correspondent"

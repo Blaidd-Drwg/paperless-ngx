@@ -4954,7 +4954,7 @@
         <source>Create new user account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">70</context>
+          <context context-type="linenumber">72</context>
         </context-group>
         <target state="final">Neues Benutzerkonto erstellen</target>
       </trans-unit>
@@ -4962,7 +4962,7 @@
         <source>Edit user account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">76</context>
         </context-group>
         <target state="final">Benutzerkonto bearbeiten</target>
       </trans-unit>
@@ -4970,7 +4970,7 @@
         <source>Totp deactivated</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">132</context>
         </context-group>
         <target state="final">TOTP deaktiviert</target>
       </trans-unit>
@@ -4978,11 +4978,11 @@
         <source>Totp deactivation failed</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">133</context>
+          <context context-type="linenumber">135</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">138</context>
+          <context context-type="linenumber">140</context>
         </context-group>
         <target state="final">TOTP-Deaktivierung fehlgeschlagen</target>
       </trans-unit>
@@ -5016,7 +5016,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
-        <target state="final">Workflow auslösen bei:</target>
+        <target state="final">Arbeitsablauf auslösen bei:</target>
       </trans-unit>
       <trans-unit id="3901427285052969410" datatype="html" approved="yes">
         <source>Add Trigger</source>

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-22 18:15+0000\n"
-"PO-Revision-Date: 2025-10-23 00:34\n"
+"PO-Revision-Date: 2025-10-24 12:14\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -830,7 +830,7 @@ msgstr "Benutzerdefiniertes Feld"
 
 #: documents/models.py:1009
 msgid "Workflow Trigger Type"
-msgstr "Workflow-Auslösertyp"
+msgstr "Arbeitsablauf-Auslösertyp"
 
 #: documents/models.py:1021
 msgid "filter path"
@@ -1166,11 +1166,11 @@ msgstr "Webhook"
 
 #: documents/models.py:1518
 msgid "workflow action"
-msgstr "Workflow-Aktion"
+msgstr "Arbeitsablauf-Aktion"
 
 #: documents/models.py:1519
 msgid "workflow actions"
-msgstr "Workflow-Aktionen"
+msgstr "Arbeitsablauf-Aktionen"
 
 #: documents/models.py:1528 paperless_mail/models.py:145
 msgid "order"

@@ -65,7 +65,7 @@
           <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@19.0.1_@angular+common@20.3.2_@angular+core@20.3.2_@angular+_4a8591e6ee586bf00b666f6438778cc7/node_modules/src/ngb-config.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
-        <target state="translated">HH</target>
+        <target state="translated">GG</target>
       </trans-unit>
       <trans-unit id="ngb.toast.close-aria" datatype="html">
         <source>Close</source>
@@ -1128,7 +1128,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">179</context>
         </context-group>
-        <target state="needs-translation">Show document counts in sidebar saved views</target>
+        <target state="translated">Pokaż liczniki dokumentów w pasku bocznym</target>
       </trans-unit>
       <trans-unit id="908152367861642592" datatype="html">
         <source>Document editing</source>
@@ -2124,7 +2124,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">161</context>
         </context-group>
-        <target state="needs-translation">Error dismissing tasks</target>
+        <target state="translated">Błąd zakończenia zadań</target>
       </trans-unit>
       <trans-unit id="2132179171926568807" datatype="html">
         <source>Error dismissing task</source>
@@ -2132,7 +2132,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">170</context>
         </context-group>
-        <target state="needs-translation">Error dismissing task</target>
+        <target state="translated">Błąd zakończenia zadania</target>
       </trans-unit>
       <trans-unit id="9011556615675272238" datatype="html">
         <source>queued</source>
@@ -4792,7 +4792,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/tag-edit-dialog/tag-edit-dialog.component.html</context>
           <context context-type="linenumber">15</context>
         </context-group>
-        <target state="needs-translation">Parent</target>
+        <target state="translated">Nadrzędny/a</target>
       </trans-unit>
       <trans-unit id="1426037806946650347" datatype="html" approved="yes">
         <source>Inbox tag</source>
@@ -4954,7 +4954,7 @@
         <source>Create new user account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">70</context>
+          <context context-type="linenumber">72</context>
         </context-group>
         <target state="translated">Utwórz nowe konto użytkownika</target>
       </trans-unit>
@@ -4962,7 +4962,7 @@
         <source>Edit user account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">76</context>
         </context-group>
         <target state="translated">Edytuj konto użytkownika</target>
       </trans-unit>
@@ -4970,7 +4970,7 @@
         <source>Totp deactivated</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">132</context>
         </context-group>
         <target state="translated">Totp wyłączony</target>
       </trans-unit>
@@ -4978,11 +4978,11 @@
         <source>Totp deactivation failed</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">133</context>
+          <context context-type="linenumber">135</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.ts</context>
-          <context context-type="linenumber">138</context>
+          <context context-type="linenumber">140</context>
         </context-group>
         <target state="translated">Dezaktywacja totp nie powiodła się</target>
       </trans-unit>
@@ -5216,7 +5216,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">181</context>
         </context-group>
-        <target state="needs-translation">Advanced Filters</target>
+        <target state="translated">Filtry zaawansowane</target>
       </trans-unit>
       <trans-unit id="910026778839409110" datatype="html">
         <source>Add filter</source>
@@ -5224,7 +5224,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">188</context>
         </context-group>
-        <target state="needs-translation">Add filter</target>
+        <target state="translated">Dodaj filtr</target>
       </trans-unit>
       <trans-unit id="5671193617280178107" datatype="html">
         <source>No advanced workflow filters defined.</source>
@@ -5232,7 +5232,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">193</context>
         </context-group>
-        <target state="needs-translation">No advanced workflow filters defined.</target>
+        <target state="translated">Nie zdefiniowano zaawansowanych filtrów przepływu pracy.</target>
       </trans-unit>
       <trans-unit id="6892734625735572404" datatype="html">
         <source> Complete the custom field query configuration. </source>
@@ -5240,7 +5240,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">222,224</context>
         </context-group>
-        <target state="needs-translation"> Complete the custom field query configuration. </target>
+        <target state="translated"> Zakończ konfigurację pola niestandardowego. </target>
       </trans-unit>
       <trans-unit id="6417103744331194518" datatype="html">
         <source>Action type</source>
@@ -5620,7 +5620,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">203</context>
         </context-group>
-        <target state="needs-translation">Has any of these tags</target>
+        <target state="translated">Zawiera którykolwiek z podanych tagów</target>
       </trans-unit>
       <trans-unit id="4166903555074156852" datatype="html">
         <source>Has all of these tags</source>
@@ -5628,7 +5628,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">210</context>
         </context-group>
-        <target state="needs-translation">Has all of these tags</target>
+        <target state="translated">Zawiera wszystkie podane tagi</target>
       </trans-unit>
       <trans-unit id="6624363795312783141" datatype="html">
         <source>Does not have these tags</source>
@@ -5636,7 +5636,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">217</context>
         </context-group>
-        <target state="needs-translation">Does not have these tags</target>
+        <target state="translated">Nie zawiera żadnego z podanych tagów</target>
       </trans-unit>
       <trans-unit id="5281365940563983618" datatype="html">
         <source>Has correspondent</source>
@@ -5652,7 +5652,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">232</context>
         </context-group>
-        <target state="needs-translation">Does not have correspondents</target>
+        <target state="translated">Nie posiada korespondentów</target>
       </trans-unit>
       <trans-unit id="4806713133917046341" datatype="html">
         <source>Has document type</source>
@@ -5668,7 +5668,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">248</context>
         </context-group>
-        <target state="needs-translation">Does not have document types</target>
+        <target state="translated">Nie posiada typów dokumentów</target>
       </trans-unit>
       <trans-unit id="4277260190522078330" datatype="html">
         <source>Has storage path</source>
@@ -5676,7 +5676,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">256</context>
         </context-group>
-        <target state="needs-translation">Has storage path</target>
+        <target state="translated">Ma ścieżkę zapisu w</target>
       </trans-unit>
       <trans-unit id="6070943364927280151" datatype="html">
         <source>Does not have storage paths</source>
@@ -5684,7 +5684,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">264</context>
         </context-group>
-        <target state="needs-translation">Does not have storage paths</target>
+        <target state="translated">Brak ścieżki zapisu w</target>
       </trans-unit>
       <trans-unit id="6250799006816371860" datatype="html">
         <source>Matches custom field query</source>
@@ -5692,7 +5692,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.ts</context>
           <context context-type="linenumber">272</context>
         </context-group>
-        <target state="needs-translation">Matches custom field query</target>
+        <target state="translated">Pasuje do zapytania o pole niestandardowe</target>
       </trans-unit>
       <trans-unit id="3138206142174978019" datatype="html">
         <source>Create new workflow</source>
@@ -5716,7 +5716,7 @@
           <context context-type="sourcefile">src/app/components/common/email-document-dialog/email-document-dialog.component.html</context>
           <context context-type="linenumber">2,6</context>
         </context-group>
-        <target state="needs-translation">{VAR_PLURAL, plural, =1 {Email Document} other {Email <x id="INTERPOLATION"/> Documents}}</target>
+        <target state="translated">{VAR_PLURAL, plural, =1 {Dokument e-mailowy} other {Wyślij <x id="INTERPOLATION"/> dokumentów e-mailowych}}</target>
       </trans-unit>
       <trans-unit id="7376342558017986274" datatype="html">
         <source>Email address(es)</source>
@@ -5768,7 +5768,7 @@
           <context context-type="sourcefile">src/app/components/common/email-document-dialog/email-document-dialog.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
-        <target state="needs-translation">Some email servers may reject messages with large attachments.</target>
+        <target state="translated">Niektóre serwery poczty elektronicznej mogą odrzucać wiadomości z dużymi załącznikami.</target>
       </trans-unit>
       <trans-unit id="9049148856403142491" datatype="html">
         <source>Email sent</source>
@@ -5784,7 +5784,7 @@
           <context context-type="sourcefile">src/app/components/common/email-document-dialog/email-document-dialog.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-        <target state="needs-translation">Error emailing documents</target>
+        <target state="translated">Błąd podczas wysyłania dokumentów</target>
       </trans-unit>
       <trans-unit id="3742745894977668908" datatype="html">
         <source>Error emailing document</source>
@@ -6162,7 +6162,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
-        <target state="needs-translation">Select all pages</target>
+        <target state="translated">Zaznacz wszystkie strony</target>
       </trans-unit>
       <trans-unit id="234610397929376642" datatype="html">
         <source>Deselect all pages</source>
@@ -6170,7 +6170,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">12</context>
         </context-group>
-        <target state="needs-translation">Deselect all pages</target>
+        <target state="translated">Odznacz wszystkie strony</target>
       </trans-unit>
       <trans-unit id="2530246103796817298" datatype="html">
         <source>Rotate selected pages counter-clockwise</source>
@@ -6178,7 +6178,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
-        <target state="needs-translation">Rotate selected pages counter-clockwise</target>
+        <target state="translated">Obróć wybrane strony przeciwnie do ruchu wskazówek zegara</target>
       </trans-unit>
       <trans-unit id="4787219034890830544" datatype="html">
         <source>Rotate selected pages clockwise</source>
@@ -6186,7 +6186,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">Rotate selected pages clockwise</target>
+        <target state="translated">Obróć wybrane strony zgodnie z ruchem wskazówek zegara</target>
       </trans-unit>
       <trans-unit id="3441043765105475130" datatype="html">
         <source>Delete selected pages</source>
@@ -6194,7 +6194,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
-        <target state="needs-translation">Delete selected pages</target>
+        <target state="translated">Usuń wybrane strony</target>
       </trans-unit>
       <trans-unit id="3873740163706409154" datatype="html">
         <source>Rotate page counter-clockwise</source>
@@ -6202,7 +6202,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target state="needs-translation">Rotate page counter-clockwise</target>
+        <target state="translated">Obróć stronę przeciwnie do ruchu wskazówek zegara</target>
       </trans-unit>
       <trans-unit id="3450236521040548507" datatype="html">
         <source>Rotate page clockwise</source>
@@ -6210,7 +6210,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">36</context>
         </context-group>
-        <target state="needs-translation">Rotate page clockwise</target>
+        <target state="translated">Obróć stronę zgodnie z ruchem wskazówek zegara</target>
       </trans-unit>
       <trans-unit id="7647925464077975347" datatype="html">
         <source>Delete page</source>
@@ -6218,7 +6218,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">41</context>
         </context-group>
-        <target state="needs-translation">Delete page</target>
+        <target state="translated">Usuń stronę</target>
       </trans-unit>
       <trans-unit id="2480952115552020422" datatype="html">
         <source>Add / remove document split here</source>
@@ -6226,7 +6226,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
-        <target state="needs-translation">Add / remove document split here</target>
+        <target state="translated">Dodaj / usuń podział dokumentu</target>
       </trans-unit>
       <trans-unit id="35277754987868961" datatype="html">
         <source>Split here</source>
@@ -6234,7 +6234,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
-        <target state="needs-translation">Split here</target>
+        <target state="translated">Podziel tutaj</target>
       </trans-unit>
       <trans-unit id="7273640930165035289" datatype="html">
         <source>Create new document(s)</source>
@@ -6242,7 +6242,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">82</context>
         </context-group>
-        <target state="needs-translation">Create new document(s)</target>
+        <target state="translated">Utwórz nowy dokument(y)</target>
       </trans-unit>
       <trans-unit id="8035757452478567832" datatype="html">
         <source>Update existing document</source>
@@ -6250,7 +6250,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">87</context>
         </context-group>
-        <target state="needs-translation">Update existing document</target>
+        <target state="translated">Zaktualizuj istniejący dokument</target>
       </trans-unit>
       <trans-unit id="7248454234750442816" datatype="html">
         <source>Copy metadata</source>
@@ -6258,7 +6258,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">94</context>
         </context-group>
-        <target state="needs-translation">Copy metadata</target>
+        <target state="translated">Skopiuj metadane</target>
       </trans-unit>
       <trans-unit id="6684403463658676119" datatype="html">
         <source>Delete original</source>
@@ -6266,7 +6266,7 @@
           <context context-type="sourcefile">src/app/components/common/pdf-editor/pdf-editor.component.html</context>
           <context context-type="linenumber">98</context>
         </context-group>
-        <target state="needs-translation">Delete original</target>
+        <target state="translated">Usuń oryginał</target>
       </trans-unit>
       <trans-unit id="7940755769131903278" datatype="html">
         <source>Merge with existing permissions</source>
@@ -7030,7 +7030,7 @@
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">257</context>
         </context-group>
-        <target state="needs-translation">WebSocket Connection</target>
+        <target state="translated">Połączenie WebSocket</target>
       </trans-unit>
       <trans-unit id="8998179362936748717" datatype="html">
         <source>OK</source>
@@ -7038,7 +7038,7 @@
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">261</context>
         </context-group>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
       </trans-unit>
       <trans-unit id="6732151329960766506" datatype="html">
         <source>Copy Raw Error</source>
@@ -7376,7 +7376,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.html</context>
           <context context-type="linenumber">7,8</context>
         </context-group>
-        <target state="needs-translation">of <x id="INTERPOLATION" equiv-text="{{previewNumPages}}"/></target>
+        <target state="translated">z</target>
       </trans-unit>
       <trans-unit id="8590109102084543521" datatype="html">
         <source>-</source>
@@ -7420,7 +7420,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.html</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target state="needs-translation">Print</target>
+        <target state="translated">Drukuj</target>
       </trans-unit>
       <trans-unit id="1418444397960583910" datatype="html" approved="yes">
         <source>More like this</source>
@@ -7444,7 +7444,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1392</context>
         </context-group>
-        <target state="needs-translation">PDF Editor</target>
+        <target state="translated">Edytor dokumentu PDF</target>
       </trans-unit>
       <trans-unit id="6490688569532630280" datatype="html">
         <source>Send</source>
@@ -7992,7 +7992,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1411</context>
         </context-group>
-        <target state="needs-translation">PDF edit operation for "<x id="PH" equiv-text="this.document.title"/>" will begin in the background.</target>
+        <target state="translated">Edycja dokumentu PDF dla "<x id="PH" equiv-text="this.document.title"/>" rozpocznie się w tle.</target>
       </trans-unit>
       <trans-unit id="9043972994040261999" datatype="html">
         <source>Error executing PDF edit operation</source>
@@ -8000,7 +8000,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1423</context>
         </context-group>
-        <target state="needs-translation">Error executing PDF edit operation</target>
+        <target state="translated">Błąd podczas edycji dokumentu PDF</target>
       </trans-unit>
       <trans-unit id="3740891324955700797" datatype="html">
         <source>Print failed.</source>
@@ -8008,7 +8008,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1455</context>
         </context-group>
-        <target state="needs-translation">Print failed.</target>
+        <target state="translated">Błąd drukowania.</target>
       </trans-unit>
       <trans-unit id="6457245677384603573" datatype="html">
         <source>Error loading document for printing.</source>
@@ -8016,7 +8016,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1463</context>
         </context-group>
-        <target state="needs-translation">Error loading document for printing.</target>
+        <target state="translated">Błąd ładowania dokumentu do wydruku.</target>
       </trans-unit>
       <trans-unit id="6085793215710522488" datatype="html">
         <source>An error occurred loading tiff: <x id="PH" equiv-text="err.toString()"/></source>
@@ -9571,7 +9571,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">143</context>
         </context-group>
-        <target state="needs-translation">View Processed Mail</target>
+        <target state="translated">Zobacz Przetworzoną pocztę</target>
       </trans-unit>
       <trans-unit id="6751234988479444294" datatype="html">
         <source>No mail rules defined.</source>
@@ -9775,7 +9775,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
-        <target state="needs-translation">Processed Mail for <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ rule.name }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/></target>
+        <target state="translated">Przetworzona poczta dla <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ rule.name }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/></target>
       </trans-unit>
       <trans-unit id="1991019495862291373" datatype="html">
         <source>No processed email messages found.</source>
@@ -9783,7 +9783,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">No processed email messages found.</target>
+        <target state="translated">Nie znaleziono przetworzonych wiadomości.</target>
       </trans-unit>
       <trans-unit id="8691920320483720007" datatype="html">
         <source>Received</source>
@@ -9791,7 +9791,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target state="needs-translation">Received</target>
+        <target state="translated">Odebrano</target>
       </trans-unit>
       <trans-unit id="4749295647449765550" datatype="html">
         <source>Processed</source>
@@ -9799,7 +9799,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target state="needs-translation">Processed</target>
+        <target state="translated">Przetworzono</target>
       </trans-unit>
       <trans-unit id="2175109571923803648" datatype="html">
         <source>Processed mail(s) deleted</source>
@@ -9807,7 +9807,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.ts</context>
           <context context-type="linenumber">72</context>
         </context-group>
-        <target state="needs-translation">Processed mail(s) deleted</target>
+        <target state="translated">Usunięto przetworzone wiadomości</target>
       </trans-unit>
       <trans-unit id="4010735610815226758" datatype="html" approved="yes">
         <source>Filter by:</source>
@@ -10379,7 +10379,7 @@
           <context context-type="sourcefile">src/app/data/custom-field.ts</context>
           <context context-type="linenumber">55</context>
         </context-group>
-        <target state="needs-translation">Long Text</target>
+        <target state="translated">Pełny tekst</target>
       </trans-unit>
       <trans-unit id="4460262093225954455" datatype="html" approved="yes">
         <source>Search score</source>
@@ -11204,7 +11204,7 @@
           <context context-type="sourcefile">src/app/services/settings.service.ts</context>
           <context context-type="linenumber">249</context>
         </context-group>
-        <target state="needs-translation">Vietnamese</target>
+        <target state="translated">Wietnamski</target>
       </trans-unit>
       <trans-unit id="4689443708886954687" datatype="html">
         <source>Chinese Simplified</source>
